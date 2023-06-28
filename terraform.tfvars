@@ -1,0 +1,6 @@
+my_region     = "us-east-1"
+my_profile    = "default"
+topic_name    = "sns_dev"
+end_point     = "donaskt@gmail.com"
+protocol_type = "email"
+team          = "dev"
